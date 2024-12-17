@@ -1,0 +1,9 @@
+# Ignore entire folders
+acquired/acquired_dataset/ego4d/
+acquired/acquired_dataset/oopsqa/
+acquired/acquired/
+
+# Ignore specific files
+acquired/acquired_dataset.zip
+acquired/1196026.err
+acquired/1196026.out

@@ -1,0 +1,39 @@
+==========================================
+SLURM_CLUSTER_NAME = param-shakti
+SLURM_JOB_ACCOUNT = somakcs
+SLURM_JOB_ID = 1196026
+SLURM_JOB_NAME = chameleon_acquired
+SLURM_JOB_NODELIST = gpu019
+SLURM_JOB_USER = 22ch10090
+SLURM_JOB_UID = 7485
+SLURM_JOB_PARTITION = gpu
+SLURM_TASK_PID = 89063
+SLURM_SUBMIT_DIR = /scratch/22ch10090/visionlanguage/acquired
+SLURM_CPUS_ON_NODE = 16
+SLURM_NTASKS = 4
+SLURM_TASK_PID = 89063
+==========================================
+CXXABI_1.3
+CXXABI_1.3.1
+CXXABI_1.3.2
+CXXABI_1.3.3
+CXXABI_1.3.4
+CXXABI_1.3.5
+CXXABI_1.3.6
+CXXABI_1.3.7
+CXXABI_1.3.8
+CXXABI_1.3.9
+CXXABI_1.3.10
+CXXABI_1.3.11
+CXXABI_1.3.12
+CXXABI_1.3.13
+CXXABI_TM_1
+CXXABI_FLOAT128
+Loading model...
+Model loaded successfully!
+Loading test data...
+Starting inference...
+Accuracy: 49.84%
+Saving results to inference_results.json...
+Results saved successfully!
+Final Accuracy: 49.84%
